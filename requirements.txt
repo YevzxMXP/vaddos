@@ -1,0 +1,12 @@
+discord.py>=2.4.0
+aiofiles>=23.2.1
+python-dotenv>=1.0.0
+Flask>=3.0.0
+psycopg2-binary>=2.9.9
+pyspellchecker>=0.8.1
+Pillow>=10.0.0
+aiohttp
+discord.py
+motor
+Pillow
+python-dotenv
